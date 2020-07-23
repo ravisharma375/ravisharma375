@@ -1,5 +1,5 @@
 [](https://github.com/ravisharma375/ravisharma375)<h1 align="center"> Hi there  👋</h1>
-<p>I am Ravi Sharma. I Love ❤️ programming and currently working as NodeJs Developer.</p>
+<p align="center>I am Ravi Sharma. I Love ❤️ programming and currently working as NodeJs Developer.</p>
 
 <p align="center"> <b>Skills<b/></p>
 
